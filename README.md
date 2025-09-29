@@ -15,7 +15,7 @@
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-          <img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=flat-square&logo=Jetpack Compose&logoColor=white"/>
+          <img src="https://img.shields.io/badge/jetpackcompose-4285F4?style=flat-square&logo=JetpackCompose&logoColor=white"/>
           <br/><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           </div>
     </div>
@@ -26,7 +26,11 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=parkhyomi&bg_color=60,dbedff,f1e5ff&title_color=313030&text_color=313030"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyomi&layout=compact&bg_color=60,dbedff,f1e5ff&title_color=313030&text_color=313030"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+        <div style="text-align: left;"> 
+            <br>
+            <img src="https://github-readme-stats.vercel.app/api?username=parkhyomi&bg_color=60,dbedff,f1e5ff&title_color=313030&text_color=313030"/> 
+            <br/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/username=parkhyomi&layout=compact&bg_color=60,dbedff,f1e5ff&title_color=313030&text_color=313030"/> 
+    </div> 
 </div>
