@@ -3,7 +3,11 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 끈기와 열정으로 성장하며, 부드러운 융합력으로 시너지를 만들어내는 개발자 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Jetpack Compose를 활용하여 사용자 경험(UX)</li>을 최우선으로 생각</li>하며 개발하는 것에 큰 가치를 둡니다.</li>맡은 바에 대한 강한 책임감을 바탕으로, 어떤 어려운 문제에 직면하더라도 꾸준히 도전하고 포기하지 않는 끈기를 중요히 생각합니다.  원하는 목표를 달성하기 위해 끊임없이 배우고 부딪히며 제 능력치를 향상시키는데 열정과 잠재력을 쏟고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        <div>Jetpack Compose를 활용하여 사용자 경험(UX)</li>을 최우선으로 생각</li>하며 개발하는 것에 큰 가치를 둡니다.</div>
+        <div>맡은 바에 대한 강한 책임감을 바탕으로, 어떤 어려운 문제에 직면하더라도 꾸준히 도전하고 포기하지 않는 끈기를 중요히 생각합니다.</div>
+        원하는 목표를 달성하기 위해 끊임없이 배우고 부딪히며 제 능력치를 향상시키는데 열정과 잠재력을 쏟고 있습니다. 
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
